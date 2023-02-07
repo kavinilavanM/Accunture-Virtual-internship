@@ -1,12 +1,12 @@
 # Accunture-Virtual-internship
 
-Client name: Social Buzz
-Client industry: Social media & content creation
-Year established: 2010
-Location of HQ: San Francisco
+-Client name: Social Buzz
+-Client industry: Social media & content creation
+-Year established: 2010
+-Location of HQ: San Francisco
 
 
-**Task:**
+#**Task:**
 
 removing rows that have values which are missing,
 changing the data type of some values within a column, and
