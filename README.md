@@ -6,7 +6,7 @@
 -Location of HQ: San Francisco
 
 
-#**Task:**
+# **Task:**
 
 removing rows that have values which are missing,
 changing the data type of some values within a column, and
