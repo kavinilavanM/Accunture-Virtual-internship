@@ -1,6 +1,9 @@
 # Accunture-Virtual-internship
-Social Buzz is a media company who want:
 
+Client name: Social Buzz
+Client industry: Social media & content creation
+Year established: 2010
+Location of HQ: San Francisco
 
 
 **Task:**
