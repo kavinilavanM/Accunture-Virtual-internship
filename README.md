@@ -17,4 +17,4 @@ Also, identify the top 5 popular categories - To analysis the top 5 categories b
 
 # **Dashboard preview:**
 
-![Dashboard](https://github.com/kavinilavanM/Accunture-Virtual-internship/blob/main/Capture.PNG)
+![Dashboard](https://github.com/kavinilavanM/Accunture-Virtual-internship/blob/main/DASHBOARD%20PREVIWE.PNG)
