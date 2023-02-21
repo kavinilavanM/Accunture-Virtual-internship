@@ -1,4 +1,4 @@
-# Accunture-Virtual-internship
+# Accenture-Virtual-internship
 
 -Client name: Social Buzz
 -Client industry: Social media & content creation
